@@ -23,6 +23,11 @@ namespace haltest1
         private void button1_Click(object sender, EventArgs e)
         {
             HD.RunHalcon(hWindowControl1.HalconWindow);
+
+            int fenzhi1 = 0;
+
+            int fenzhi2 = 0;
+
         }
     }
 }
