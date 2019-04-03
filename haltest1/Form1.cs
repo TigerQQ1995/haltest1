@@ -28,6 +28,8 @@ namespace haltest1
 
             int fenzhi2 = 0;
 
+            int fenzhi3 = 0;
+
         }
     }
 }
